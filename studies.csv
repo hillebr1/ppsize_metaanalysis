@@ -1,0 +1,456 @@
+Paper;Authors;Year;Citation;Included;System;Type;Level;Driver/Response;Aim;Part of meta-analysis
+1;"Yan, P; Guo, JS; Zhang, P; Xiao, Y; Li, Z; Zhang, SQ; Zhang, YX; He, SX";2021;SCIENCE OF THE TOTAL ENVIRONMENT 754: 142076;1;F;E;MS;R;2;no
+2;"Ryabov, A; Kerimoglu, O; Litchman, E; Olenina, I; Roselli, L; Basset, A; Stanca, E; Blasius, B";2021;ECOLOGY LETTERS 24: 847-861;1;M;O;C;D;4;no
+3;"Liu, BQ; D'Sa, EJ; Maiti, K; Rivera-Monroy, VH; Xue, Z";2021;REMOTE SENSING OF ENVIRONMENT 252: 112154;0;;;;;;
+4;"Laiolo, L; Matear, R; Soja-Woiniak, M; Suggett, DJ; Hughes, DJ; Baird, ME; Doblin, MA";2021;JOURNAL OF MARINE SYSTEMS 213: 103460;1;M;M;C;D;4;no
+5;"Decembrini, F; Caroppo, C; Bergamasco, A";2020;CONTINENTAL SHELF RESEARCH 209: 104216;0;;;;;;
+6;"Malerba, ME; Marshall, DJ; Palacios, MM; Raven, JA; Beardall, J";2020;NEW PHYTOLOGIST 221: 2647-2659;1;M;E;SS;D;1;MS001
+7;"Thompson, HF; Summers, S; Yuecel, R; Gutierrez, T";2020;MICROORGANISMS 8: 1955;0;;;;;;
+8;"Chen, M; Fan, M; Wang, X";2020;JOURNAL OF APPLIED ANALYSIS AND COMPUTATION 10: 2644-2658;1;none;M;SS;R;2;no
+9;"Meler, J; Wozniak, SB; Ston-Egiert, J";2020;JOURNAL OF MARINE SYSTEMS 212: 103446;0;;;;;;
+10;"Certnerova, D; Skaloud, P";2020;ANNALS OF BOTANY 126: 1077-1087;0;;;;;;
+11;"Soja-Wozniak, M; Laiolo, L; Baird, ME; Matear, R; Clementson, L; Schroeder, T; Doblin, MA; Suthers, IM";2020;JOURNAL OF MARINE SYSTEMS 211: 103400;0;;;;;;
+12;"Malerba, ME; Ghedini, G; Marshall, DJ";2020;CURRENT BIOLOGY 30: 3450-3452;0;;;;;;
+13;Ignatiades, L;2020;MARINE BIODIVERSITY 50: 58;1;M;O;C;D;4;MS033
+14;"Corredor-Acosta, A; Morales, CE; Rodriguez-Santana, A; Anabalon, V; Valencia, LP; Hormazabal, S";2020;JOURNAL OF GEOPHYSICAL RESEARCH-OCEANS 125: e2019JC015539;0;;;;;;
+15;"Menden-Deuer, S; Morison, F; Montalbano, AL; Franze, G; Strock, J; Rubin, E; McNair, H; Mouw, C; Marrec, P";2020;FRONTIERS IN MARINE SCIENCE 7: 254;0;;;;;;
+16;"Waga, H; Hirawake, T";2020;FRONTIERS IN MARINE SCIENCE 7: 209;0;;;;;;
+17;"Zohary, T; Flaim, G; Sommer, U";2021;HYDROBIOLOGIA 848: 143-155;1;F;R;C;R;2;no
+18;"Montes-Perez, JJ; Moreno-Ostos, E; Maranon, E; Blanco, JM; Rodriguez, V; Rodriguez, J";2020;HYDROBIOLOGIA 847: 2241-2254;1;F;O;C;D;4;MS002
+19;"Zhao, QY; Liu, ST; Niu, XL";2020;MATHEMATICAL METHODS IN THE APPLIED SCIENCES 43: 3886-3902;1;none;M;C;D;3;no
+20;"Cotti-Rausch, BE; Lomas, MW; Lachenmyer, EM; Baumann, EG; Richardson, TL";2020;DEEP-SEA RESEARCH PART I-OCEANOGRAPHIC RESEARCH PAPERS 156: 103141;0;;;;;;
+21;"Pomati, F; Shurin, JB; Andersen, KH; Tellenbach, C; Barton, AD";2020;FRONTIERS IN MICROBIOLOGY 10: 3155;1;F;O;C;R;3;no
+22;Kocum, E;2020;REGIONAL STUDIES IN MARINE SCIENCE 33: 100920;0;;;;;;
+23;"Branco, P; Egas, M; Hall, SR; Huisman, J";2020;AMERICAN NATURALIST 195: E20-E37;1;none;M;C;R;3;MS008
+24;"Sun, XR; Shen, F; Brewin, RJW; Liu, DY; Tang, RG";2019;JOURNAL OF GEOPHYSICAL RESEARCH-OCEANS 124: 8887-8912;0;;;;;;
+25;"Abonyi, A; Kiss, KT; Hidas, A; Borics, G; Varbiro, G; Acs, E";2020;ECOSYSTEMS 23: 1254-1264;1;F;O;C;R;2;no
+26;"Gittings, JA; Brewin, RJW; Raitsos, DE; Kheireddine, M; Ouhssain, M; Jones, BH; Hoteit, I";2019;REMOTE SENSING OF ENVIRONMENT 234: 111387;0;;;;;;
+27;"Liao, TC; Yu, HG; Dai, CJ; Zhao, M";2019;COMPLEXITY 2019: 8205696;1;none;M;C;R;2;no
+28;"Waga, H; Hirawake, T; Ueno, H";2019;GEOPHYSICAL RESEARCH LETTERS 46: 13191-13198;1;M;M;C;R;2;no
+29;"Biggs, TEG; Alvarez-Fernandez, S; Evans, C; Mojica, KDA; Rozema, PD; Venables, HJ; Pond, DW; Brussaard, CPD";2019;POLAR BIOLOGY 42: 1997-2015;0;;;;;;
+30;"Kim, Y; Lee, JH; Kang, JJ; Lee, JH; Lee, HW; Kang, CK; Lee, SH";2019;ESTUARINE COASTAL AND SHELF SCIENCE 226: 106293;0;;;;;;
+31;"Zachleder, V; Ivanov, I; Vitova, M; Bisova, K";2019;CELLS 8: 1237;0;;;;;;
+32;"Song, L; Wu, J; Du, J; Li, N; Wang, K; Wang, P";2019;JOURNAL OF OCEAN UNIVERSITY OF CHINA 18: 1207-1215;0;;;;;;
+33;"Baho, DL; Pomati, F; Leu, E; Hessen, DO; Moe, SJ; Norberg, J; Nizzetto, L";2019;SCIENCE OF THE TOTAL ENVIRONMENT 683: 578-588;1;F;E;C;R;2;no
+34;"Ivanov, IN; Vitova, M; Bisova, K";2019;FOLIA MICROBIOLOGICA 64: 663-672;0;;;;;;
+35;"Zaoli, S; Giometto, A; Maranon, E; Escrig, S; Meibom, A; Ahluwalia, A; Stocker, R; Maritan, A; Rinaldo, A";2019;PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF AMERICA 116: 17323-17329;1;F;EM;MS;D;1;MS003
+36;"Lin, FS; Ho, PC; Sastri, AR; Chen, CC; Gong, GC; Jan, S; Hsieh, CH";2020;LIMNOLOGY AND OCEANOGRAPHY 65: 236-246;1;M;O;C;R;2;no
+37;"Schulhof, MA; Shurin, JB; Declerck, SAJ; Van de Waal, DB";2019;GLOBAL CHANGE BIOLOGY 25: 2751-2762;0;;;;;;
+38;"Fragoso, GM; Davies, EJ; Ellingsen, I; Chauton, MS; Fossum, T; Ludvigsen, M; Steinhovden, KB; Rajan, K; Johnsen, G";2019;PROGRESS IN OCEANOGRAPHY 175: 284-299;0;;;;;;
+39;"Nunes, S; Perez, GL; Latasa, M; Zamanillo, M; Delgado, M; Ortega-Retuerta, E; Marrase, C; Simo, R; Estrada, M";2019;SCIENTIA MARINA 83: 87-109;0;;;;;;
+40;"Mandal, S; Smith, SL; Priyadarshi, A; Yamazaki, H";2019;FRONTIERS IN MARINE SCIENCE 6: 259;0;;;;;;
+41;"Pulina, S; Luglie, A; Mariani, MA; Sarria, M; Sechi, N; Padedda, BM";2019;NATURE CONSERVATION-BULGARIA : 163-191;1;F;O;C;R;2;no
+42;"Jiang, ZB; Du, P; Liu, JJ; Chen, Y; Zhu, YL; Shou, L; Zeng, JN; Chen, JF";2019;MARINE POLLUTION BULLETIN 142: 119-128;0;;;;;;
+43;"Mouw, CB; Ciochetto, AB; Yoder, JA";2019;GLOBAL BIOGEOCHEMICAL CYCLES 33: 540-558;0;;;;;;
+44;"Deng, L; Zhou, W; Cao, WX; Zheng, WD; Wang, GF; Xu, ZT; Li, C; Yang, YZ; Hu, SB; Zhao, WJ";2019;REMOTE SENSING 11: 1054;0;;;;;;
+45;"Gallego, I; Venail, P; Ibelings, BW";2019;ISME JOURNAL 13: 1133-1143;1;F;E;MS;D;1;no
+46;"Waga, H; Hirawake, T; Fujiwara, A; Grebmeier, JM; Saitoh, SI";2019;DEEP-SEA RESEARCH PART II-TOPICAL STUDIES IN OCEANOGRAPHY 162: 114-126;0;;;;;;
+47;"Cuevas, LA; Tapia, FJ; Iriarte, JL; Gonzalez, HE; Silva, N; Vargas, CA";2019;PROGRESS IN OCEANOGRAPHY 173: 103-113;0;;;;;;
+48;"Van Meerssche, E; Pinckney, JL";2019;ESTUARIES AND COASTS 42: 504-512;0;;;;;;
+49;"Lamont, T; Barlow, RG; Brewin, RJW";2019;JOURNAL OF GEOPHYSICAL RESEARCH-OCEANS 124: 1170-1195;0;;;;;;
+50;"Jones, AR; Dewitte, W";2019;JOURNAL OF EXPERIMENTAL BOTANY 70: 731-733;0;;;;;;
+51;"Perkins, DM; Perna, A; Adrian, R; Cermeno, P; Gaedke, U; Huete-Ortega, M; White, EP; Yvon-Durocher, G";2019;NATURE COMMUNICATIONS 10: 255;1;FM;O;C;D;4;no
+52;"Ismail, AH; Mills, S; Recknagel, F";2019;APPLIED ECOLOGY AND ENVIRONMENTAL RESEARCH 17: 7715-7725;0;;;;;;
+53;"Li, L; Cen, JY; Cui, L; Lu, SH";2019;ACTA OCEANOLOGICA SINICA 38: 151-159;0;;;;;;
+54;"Chen, BZ; Smith, SL; Wirtz, KW";2019;ECOLOGY LETTERS 22: 56-66;1;M;M;C;D;4;no
+55;"Sendra, M; Blasco, J; Araujo, CVM";2018;ECOLOGICAL INDICATORS 95: 1053-1067;0;;;;;;
+56;"Pulina, S; Satta, CT; Padedda, BM; Sechi, N; Luglie, A";2018;ESTUARINE COASTAL AND SHELF SCIENCE 212: 95-104;1;M;M;C;R;2;no
+57;"Liang, WZ; Tang, DL; Luo, X";2018;JOURNAL OF MARINE SYSTEMS 187: 82-95;0;;;;;;
+58;"Iatskiu, P; Bovo-Scomparin, VM; Segovia, BT; Velho, LFM; Lemke, MJ; Rodrigues, LC";2018;HYDROBIOLOGIA 823: 135-151;1;F;O;C;R;2;no
+59;"Pulina, S; Satta, CT; Luglie, A; Sechi, N; Padedda, BM";2018;DATA IN BRIEF 20: 337-344;0;;;;;;
+60;"Padfield, D; Buckling, A; Warfield, R; Lowe, C; Yvon-Durocher, G";2018;ECOLOGY LETTERS 21: 1152-1161;1;F;E;C;R;2;no
+61;"Zhao, QY; Liu, ST; Tian, DD";2018;CHAOS SOLITONS & FRACTALS 113: 160-168;0;;;;;;
+62;"Zhang, HL; Wang, SQ; Qiu, ZF; Sun, DY; Ishizaka, J; Sun, SJ; He, YJ";2018;BIOGEOSCIENCES 15: 4271-4289;0;;;;;;
+63;"Dong, Y; Li, QP; Liu, ZJ; Wu, ZC; Zhou, WW";2018;MARINE ECOLOGY PROGRESS SERIES 599: 35-47;0;;;;;;
+64;"Lamont, T; Barlow, RG; Brewin, RJW";2018;REMOTE SENSING 10: 1143;0;;;;;;
+65;"Liu, XH; Devred, E; Johnson, C";2018;REMOTE SENSING 10: 1028;0;;;;;;
+66;"Corredor-Acosta, A; Morales, CE; Brewin, RJW; Auger, PA; Pizarro, O; Hormazabal, S; Anabalon, V";2018;REMOTE SENSING 10: 834;0;;;;;;
+67;"Zeng, C; Rosengard, SZ; Burt, W; Pena, MA; Nemcek, N; Zeng, T; Arrigo, KR; Tortell, PD";2018;DEEP-SEA RESEARCH PART I-OCEANOGRAPHIC RESEARCH PAPERS 136: 107-118;0;;;;;;
+68;"Acevedo-Trejos, E; Maranon, E; Merico, A";2018;PROCEEDINGS OF THE ROYAL SOCIETY B-BIOLOGICAL SCIENCES 285: 20180621;1;M;M;C;R;3;no
+69;"Sun, XR; Shen, F; Liu, DY; Bellerby, RGJ; Liu, YY; Tang, RG";2018;JOURNAL OF GEOPHYSICAL RESEARCH-OCEANS 123: 3523-3544;0;;;;;;
+70;"Mousing, EA; Richardson, K; Ellegaard, M";2018;LIMNOLOGY AND OCEANOGRAPHY 63: 1298-1312;0;;;;;;
+71;"Chindia, JA; Figueredo, CC";2018;HYDROBIOLOGIA 813: 51-61;0;;;;;;
+72;"Font-Munoz, JS; Jordi, A; Angles, S; Ferriol, P; Garces, E; Basterretxea, G";2018;MARINE ECOLOGY PROGRESS SERIES 594: 51-63;0;;;;;;
+73;"Taylor, AG; Landry, MR";2018;MARINE ECOLOGY PROGRESS SERIES 592: 1-17;0;;;;;;
+74;"Hu, SB; Liu, HZ; Zhao, WJ; Shi, TZ; Hu, ZW; Li, QQ; Wu, GF";2018;REMOTE SENSING 10: 191;0;;;;;;
+75;Cloern, JE;2018;LIMNOLOGY AND OCEANOGRAPHY 63: S392-S409;1;M;MO;C;R;2;no
+76;"Kheireddine, M; Ouhssain, M; Organelli, E; Bricaud, A; Jones, BH";2018;JOURNAL OF GEOPHYSICAL RESEARCH-OCEANS 123: 902-921;0;;;;;;
+77;"Robinson, A; Bouman, HA; Tilstone, GH; Sathyendranath, S";2018;FRONTIERS IN MARINE SCIENCE 4: 435;0;;;;;;
+78;"Chrachri, A; Hopkinson, BM; Flynn, K; Brownlee, C; Wheeler, GL";2018;NATURE COMMUNICATIONS 9: 74;0;;;;;;
+79;"Kang, JH; Liang, QY; Wang, JJ; Lin, YL; He, XB; Xia, Z; Zheng, XQ; Wang, Y";2018;ACTA OCEANOLOGICA SINICA 37: 97-107;0;;;;;;
+80;"Lamont, T; Brewin, RJW; Barlow, RG";2018;REMOTE SENSING OF ENVIRONMENT 204: 617-631;0;;;;;;
+81;"Shin, JW; Park, J; Choi, JG; Jo, YH; Kang, JJ; Joo, H; Lee, SH";2017;JOURNAL OF GEOPHYSICAL RESEARCH-OCEANS 122: 10262-10274;0;;;;;;
+82;"Jong, LW; Fujiwara, T; Nozaki, H; Miyagishima, S";2017;PROCEEDINGS OF THE JAPAN ACADEMY SERIES B-PHYSICAL AND BIOLOGICAL SCIENCES 93: 832-840;0;;;;;;
+83;"Malerba, ME; White, CR; Marshall, DJ";2017;ECOLOGY 98: 3106-3115;1;M;E;MS;D;1;MS009
+84;"Soria-Piriz, S; Garcia-Robledo, E; Papaspyrou, S; Aguilar, V; Seguro, I; Acuna, J; Morales, A; Corzo, A";2017;LIMNOLOGY AND OCEANOGRAPHY 62: S309-S326;0;;;;;;
+85;"Zhou, W; Wang, GF; Li, C; Xu, ZT; Cao, WX; Shen, F";2017;APPLIED OPTICS 56: 8362-8371;0;;;;;;
+86;"Sun, DY; Huan, Y; Qiu, ZF; Hu, CM; Wang, SQ; He, YJ";2017;JOURNAL OF GEOPHYSICAL RESEARCH-OCEANS 122: 8309-8325;0;;;;;;
+87;Ignatiades, L;2017;MARINE ECOLOGY-AN EVOLUTIONARY PERSPECTIVE 38: e12454;0;;;;;;
+88;"Taherzadeh, N; Kerimoglu, O; Wirtz, KW";2017;ECOLOGICAL MODELLING 360: 279-289;0;;;;;;
+89;"Marken, E; Ssebiyonga, N; Lotsberg, JK; Stamnes, JJ; Hamre, B; Frette, O; Kristoffersen, AS; Erga, SR";2017;JOURNAL OF MARINE RESEARCH 75: 579-603;0;;;;;;
+90;"Hunt, BPV; Carlotti, F; Donoso, K; Pagano, M; D'Ortenzio, F; Taillandier, V; Conan, P";2017;JOURNAL OF GEOPHYSICAL RESEARCH-OCEANS 122: 6309-6324;0;;;;;;
+91;"Sendra, M; Yeste, PM; Moreno-Garrido, I; Gatica, JM; Blasco, J";2017;SCIENCE OF THE TOTAL ENVIRONMENT 590: 304-315;0;;;;;;
+92;"Kremer, CT; Thomas, MK; Litchman, E";2017;LIMNOLOGY AND OCEANOGRAPHY 62: 1658-1670;0;;;;;;
+93;"Roy, S; Sathyendranath, S; Platt, T";2017;REMOTE SENSING OF ENVIRONMENT 194: 177-189;0;;;;;;
+94;"Beltran-Heredia, E; Aksnes, DL; Cao, FJ";2017;MARINE ECOLOGY PROGRESS SERIES 571: 59-64;0;;;;;;
+95;"Sommer, U; Charalampous, E; Genitsaris, S; Moustaka-Gouni, M";2017;JOURNAL OF PLANKTON RESEARCH 39: 494-508;1;M;R;SS;D;1;no
+96;"Font-Munoz, JS; Jordi, A; Tuval, I; Arrieta, J; Angles, S; Basterretxea, G";2017;JOURNAL OF THE ROYAL SOCIETY INTERFACE 14: 20170046;1;M;MO;C;R;2;no
+97;"Alvarez, E; Nogueira, E; Lopez-Urrutia, A";2017;APPLIED AND ENVIRONMENTAL MICROBIOLOGY 83: e03317-16;0;;;;;;
+98;"Waga, H; Hirawake, T; Fujiwara, A; Kikuchi, T; Nishino, S; Suzuki, K; Takao, S; Saitoh, SI";2017;REMOTE SENSING 9: 222;0;;;;;;
+99;"Valdes, V; Escribano, R; Vergara, O";2017;LATIN AMERICAN JOURNAL OF AQUATIC RESEARCH 45: 41-54;0;;;;;;
+100;"Elferink, S; Neuhaus, S; Wohlrab, S; Toebe, K; Voss, D; Gottschling, M; Lundholm, N; Krock, B; Koch, BP; Zielinski, O; Cembella, A; John, U";2017;DEEP-SEA RESEARCH PART I-OCEANOGRAPHIC RESEARCH PAPERS 121: 54-69;0;;;;;;
+101;"Ward, BA; Maranon, E; Sauterey, B; Rault, J; Claessen, D";2017;AMERICAN NATURALIST 189: 170-177;1;M;M;MS;D;1;MS004
+102;Palijan, G;2017;INLAND WATERS 7: 192-199;0;;;;;;
+103;"Zohary, T; Fishbein, T; Shlichter, M; Naselli-Flores, L";2017;INLAND WATERS 7: 200-209;1;F;O;C;R;2;no
+104;"Makhlough, A; Saravi, HHN; Eslami, F; Leroy, SAG";2017;IRANIAN JOURNAL OF FISHERIES SCIENCES 16: 522-536;0;;;;;;
+105;"Chae, Y; Kim, D; An, YJ";2016;ENVIRONMENTAL POLLUTION 219: 359-367;0;;;;;;
+106;"Acevedo-Trejos, E; Brandt, G; Smith, SL; Merico, A";2016;GEOSCIENTIFIC MODEL DEVELOPMENT 9: 4071-4085;0;;;;;;
+107;"Mouw, CB; Barnett, A; McKinley, GA; Gloege, L; Pilcher, D";2016;GLOBAL BIOGEOCHEMICAL CYCLES 30: 1542-1562;0;;;;;;
+108;"Ponomareva, YA; Ivanova, EA";2016;CONTEMPORARY PROBLEMS OF ECOLOGY 9: 582-589;0;;;;;;
+109;"Kline, A; Pinckney, JL";2016;ENVIRONMENTAL POLLUTION 216: 806-810;0;;;;;;
+110;"Giannini, MFC; Ciotti, AM";2016;LIMNOLOGY AND OCEANOGRAPHY 61: 1495-1512;0;;;;;;
+111;"Tang, CH; Wong, CK";2016;REGIONAL STUDIES IN MARINE SCIENCE 6: 10-18;0;;;;;;
+112;"Soulies, A; Pruvost, J; Castelain, C; Burghelea, T";2016;JOURNAL OF NON-NEWTONIAN FLUID MECHANICS 231: 91-101;0;;;;;;
+113;"Fu, TT; Chen, BH; Ji, WD; Chen, HZ; Chen, WF; Dong, X; Kuang, WM; Chen, JM; Wang, JG; Lin, H";2016;ENVIRONMENTAL EARTH SCIENCES 75: 734;0;;;;;;
+114;"Portalier, SMJ; Cherif, M; Zhang, L; Fussmann, GF; Loreau, M";2016;ECOLOGICAL MODELLING 323: 41-50;1;none;M;C;R;2;no
+115;"Alvarez, E; Moran, XAG; Lopez-Urrutia, A; Nogueira, E";2016;MARINE ECOLOGY PROGRESS SERIES 543: 73-87;0;;;;;;
+116;Neustupa, J;2016;JOURNAL OF EVOLUTIONARY BIOLOGY 29: 292-305;0;;;;;;
+117;"Klymiuk, V; Barinova, S";2016;RESEARCH JOURNAL OF PHARMACEUTICAL BIOLOGICAL AND CHEMICAL SCIENCES 7: 1077-1085;1;F;O;MS;R;2;no
+118;Ignatiades, L;2016;MEDITERRANEAN MARINE SCIENCE 17: 56-64;0;;;;;;
+119;"Fujiwara, A; Hirawake, T; Suzuki, K; Eisner, L; Imai, I; Nishino, S; Kikuchi, T; Saitoh, SI";2016;BIOGEOSCIENCES 13: 115-131;0;;;;;;
+120;"Atkins, JF; Moloney, CL; Probyn, TA; Bernard, S";2016;FRONTIERS IN MARINE SCIENCE 3: 194;0;;;;;;
+121;"Cabre, A; Shields, D; Marinov, I; Kostadinov, TS";2016;FRONTIERS IN MARINE SCIENCE 3: 39;0;;;;;;
+122;"Staniszewska, M; Nehring, I; Zgrundo, A";2015;ENVIRONMENTAL POLLUTION 207: 319-328;0;;;;;;
+123;"Moreno-Ostos, E; Blanco, JM; Agusti, S; Lubian, LM; Rodriguez, V; Palomino, RL; Llabres, M; Rodriguez, J";2015;JOURNAL OF MARINE SYSTEMS 152: 42-50;1;M;O;C;D;4;MS005
+124;"Hsu, SB; Mei, LF; Wang, FB";2015;JOURNAL OF DIFFERENTIAL EQUATIONS 259: 5353-5378;0;;;;;;
+125;"Brewin, RJW; Sathyendranath, S; Jackson, T; Barlow, R; Brotas, V; Airs, R; Lamont, T";2015;REMOTE SENSING OF ENVIRONMENT 168: 437-450;0;;;;;;
+126;"Jakobsen, HH; Carstensen, J; Harrison, PJ; Zingone, A";2015;ESTUARINE COASTAL AND SHELF SCIENCE 162: 143-150;0;;;;;;
+127;"Harrison, PJ; Zingone, A; Mickelson, MJ; Lehtinen, S; Ramaiah, N; Kraberg, AC; Sun, J; McQuatters-Gollop, A; Jakobsen, HH";2015;ESTUARINE COASTAL AND SHELF SCIENCE 162: 130-142;0;;;;;;
+128;"Togashi, T; Horinouchi, Y; Sasaki, H; Yoshimura, J";2015;SCIENTIFIC REPORTS 5: 13672;0;;;;;;
+129;"Maranon, E; Cermeno, P; Latasa, M; Tadonleke, RD";2015;LIMNOLOGY AND OCEANOGRAPHY 60: 1848-1854;0;;;;;;
+130;"Tang, CH; Wong, CK; Lie, AAY; Yung, YK";2015;JOURNAL OF THE MARINE BIOLOGICAL ASSOCIATION OF THE UNITED KINGDOM 95: 885-896;0;;;;;;
+131;"Van Oostende, N; Dunne, JP; Fawcett, SE; Ward, BB";2015;JOURNAL OF MARINE SYSTEMS 148: 14-25;0;;;;;;
+132;"McFarland, MN; Rines, J; Sullivan, J; Donaghay, P";2015;MARINE ECOLOGY PROGRESS SERIES 531: 43-61;0;;;;;;
+133;"Font-Munoz, JS; Jordi, A; Angles, S; Basterretxea, G";2015;JOURNAL OF PLANKTON RESEARCH 37: 740-751;0;;;;;;
+134;"Sal, S; Alonso-Saez, L; Bueno, J; Garcia, FC; Lopez-Urrutia, A";2015;LIMNOLOGY AND OCEANOGRAPHY 60: 1212-1221;1;M;E;MS;D;1;no
+135;"Zhang, XD; Huot, Y; Bricaud, A; Sosik, HM";2015;APPLIED OPTICS 54: 5805-5816;0;;;;;;
+136;"Kuroiwa, T; Ohnuma, M; Nozaki, H; Imoto, Y; Misumi, O; Kuroiwa, H";2015;CYTOLOGIA 80: 143-150;0;;;;;;
+137;"Nam, SH; An, YJ";2015;CHEMOSPHERE 128: 85-95;0;;;;;;
+138;"Roselli, L; Basset, A";2015;PLOS ONE 10: e0127193;1;M;O;C;R;2;no
+139;"Lopez-Urrutia, A; Moran, XAG";2015;LIMNOLOGY AND OCEANOGRAPHY 60: 733-738;0;;;;;;
+140;"Wang, SQ; Ishizaka, J; Hirawake, T; Watanabe, Y; Zhu, YL; Hayashi, M; Yoo, S";2015;OPTICS EXPRESS 23: 10301-10318;0;;;;;;
+141;"Acevedo-Trejos, E; Brandt, G; Bruggeman, J; Merico, A";2015;SCIENTIFIC REPORTS 5: 8918;1;M;M;C;R;3;no
+142;"Maguer, JF; L'Helguen, S; Waeles, M";2015;ESTUARINE COASTAL AND SHELF SCIENCE 154: 1-11;0;;;;;;
+143;"Peter, KH; Sommer, U";2015;ECOLOGY AND EVOLUTION 5: 1011-1024;1;M;E;MS;R;2;no
+144;"Varunan, T; Shanmugam, P";2015;REMOTE SENSING OF ENVIRONMENT 158: 235-254;0;;;;;;
+145;"Sin, Y; Jeong, B; Park, C";2015;ESTUARIES AND COASTS 38: 546-557;0;;;;;;
+146;"Jyothibabu, R; Vinayachandran, PN; Madhu, NV; Robin, RS; Karnan, C; Jagadeesan, L; Anjusha, A";2015;JOURNAL OF MARINE SYSTEMS 143: 98-119;0;;;;;;
+147;"Guenther, M; Araujo, M; Flores-Montes, M; Gonzalez-Rodriguez, E; Neumann-Leitao, S";2015;MARINE POLLUTION BULLETIN 91: 537-547;0;;;;;;
+148;"Zohary, T; Shlichter, M; Naselli-Flores, L";2015;EUROPEAN JOURNAL OF PHYCOLOGY 50: 100-100;0;;;;;;
+149;"Al-Hashmi, K; Claereboudt, M; Piontkovski, S; Al Azri, A; Amin, SMN";2015;IRANIAN JOURNAL OF FISHERIES SCIENCES 14: 136-149;0;;;;;;
+150;Maranon, E;2015;ANNUAL REVIEW OF MARINE SCIENCE, VOL 7 7: 241-264;1;M;R;MS;D;1;no
+151;"Brito, AC; Sa, C; Brotas, V; Brewin, RJW; Silva, T; Vitorino, J; Platt, T; Sathyendranath, S";2015;REMOTE SENSING OF ENVIRONMENT 156: 537-550;0;;;;;;
+152;"Martinez-Almeida, VM; Gaxiola-Castro, G; Durazo, R; Lara-Lara, JR";2014;HIDROBIOLOGICA 24: 191-206;0;;;;;;
+153;"Motokawa, S; Hattori, H; Sasaki, H; Taguchi, S";2014;POLAR BIOLOGY 37: 1373-1381;0;;;;;;
+154;"Mitra, A; Zaman, S; Raha, AK";2014;INDIAN JOURNAL OF GEO-MARINE SCIENCES 43: 1914-1921;1;M;O;C;R;2;no
+155;"Smith, SL; Merico, A; Hohn, S; Brandt, G";2014;MARINE ECOLOGY PROGRESS SERIES 511: 33-39;1;M;M;C;D;1;no
+156;"Dugenne, M; Thyssen, M; Nerini, D; Mante, C; Poggiale, JC; Garcia, N; Garcia, F; Gregori, GJ";2014;FRONTIERS IN MICROBIOLOGY 5: 485;0;;;;;;
+157;"Kim, H; Van Duong, H; Kim, E; Lee, BG; Han, S";2014;ENVIRONMENTAL TOXICOLOGY 29: 936-941;1;M;E;MS;D;1;no
+158;"Lopez-Sandoval, DC; Rodriguez-Ramos, T; Cermeno, P; Sobrino, C; Maranon, E";2014;JOURNAL OF EXPERIMENTAL MARINE BIOLOGY AND ECOLOGY 457: 151-159;1;M;E;MS;D;1;MS006
+159;"Kocum, E; Sutcu, A";2014;JOURNAL OF COASTAL RESEARCH 30: 777-784;0;;;;;;
+160;"Lin, JF; Cao, WX; Wang, GF; Hu, SB";2014;MARINE POLLUTION BULLETIN 83: 190-197;0;;;;;;
+161;"Bisova, K; Zachleder, V";2014;JOURNAL OF EXPERIMENTAL BOTANY 65: 2585-2602;0;;;;;;
+162;"Brewin, RJW; Sathyendranath, S; Tilstone, G; Lange, PK; Platt, T";2014;JOURNAL OF GEOPHYSICAL RESEARCH-OCEANS 119: 3478-3496;0;;;;;;
+163;"Evers-King, H; Bernard, S; Lain, LR; Probyn, TA";2014;OPTICS EXPRESS 22: 11536-11551;0;;;;;;
+164;"Lin, JF; Cao, WX; Zhou, W; Sun, ZH; Xu, ZT; Wang, GF; Hu, SB";2014;OPTICS EXPRESS 22: 10467-10476;0;;;;;;
+165;"Brewin, RJW; Sathyendranath, S; Lange, PK; Tilstone, G";2014;DEEP-SEA RESEARCH PART I-OCEANOGRAPHIC RESEARCH PAPERS 85: 72-79;0;;;;;;
+166;"Landeira, JM; Ferron, B; Lunven, M; Morin, P; Marie, L; Sourisseau, M";2014;PLOS ONE 9: e90507;0;;;;;;
+167;"Mitra, A; Zaman, S; Sett, S; Raha, AK; Banerjee, K";2014;INDIAN JOURNAL OF GEO-MARINE SCIENCES 43: 208-215;0;;;;;;
+168;"Mercado, JM; Sala, I; Salles, S; Cortes, D; Ramirez, T; Liger, E; Yebra, L; Bautista, B";2014;MARINE ECOLOGY PROGRESS SERIES 499: 47-64;0;;;;;;
+169;"Mousing, EA; Ellegaard, M; Richardson, K";2014;MARINE ECOLOGY PROGRESS SERIES 497: 25-38;0;;;;;;
+170;"Ruiz-Halpern, S; Echeveste, P; Agusti, S; Duarte, CM";2014;FRONTIERS IN MARINE SCIENCE 1: 25;1;M;E;MS;D;1;MS007
+171;"Huete-Ortega, M; Rodiguez-Ramos, T; Lopez-Sandoval, DC; Cermeno, P; Blanco, JM; Palomino, RL; Rodriguez, J; Maranon, E";2014;MARINE ECOLOGY PROGRESS SERIES 515: 61-71;1;M;O;C;D;1;MS010
+172;"Lie, AAY; Wong, LC; Wong, CK";2013;JOURNAL OF THE MARINE BIOLOGICAL ASSOCIATION OF THE UNITED KINGDOM 93: 2155-2166;0;;;;;;
+173;"Lin, SQ; Huang, LF; Zhu, ZS; Jia, XY";2013;DEEP-SEA RESEARCH PART II-TOPICAL STUDIES IN OCEANOGRAPHY 97: 93-100;0;;;;;;
+174;"Acevedo-Trejos, E; Brandt, G; Merico, A; Smith, SL";2013;GLOBAL ECOLOGY AND BIOGEOGRAPHY 22: 1315-1315;0;;;;;;
+175;"Roy, S; Sathyendranath, S; Bouman, H; Platt, T";2013;REMOTE SENSING OF ENVIRONMENT 139: 185-197;0;;;;;;
+176;"Vadrucci, MR; Stanca, E; Mazziotti, C; Umani, SF; Georgia, A; Moncheva, S; Romano, A; Bucci, R; Ungaro, N; Basset, A";2013;ECOLOGICAL INDICATORS 34: 113-125;1;M;O;C;R;2;no
+177;"Peter, KH; Sommer, U";2013;PLOS ONE 8: e71528;1;M;E;C;R;2;no
+178;"Lin, JF; Cao, WX; Zhou, W; Hu, SB; Wang, GF; Sun, ZH; Xu, ZT; Song, QJ";2013;CHINESE JOURNAL OF OCEANOLOGY AND LIMNOLOGY 31: 970-978;0;;;;;;
+179;Wirtz, KW;2013;MARINE BIOLOGY 160: 2319-2335;1;M;M;C;D;1;no
+180;"Acevedo-Trejos, E; Brandt, G; Merico, A; Smith, SL";2013;GLOBAL ECOLOGY AND BIOGEOGRAPHY 22: 1060-1070;0;;;;;;
+181;"Engstrom-Ost, J; Repka, S; Brutemark, A; Nieminen, A";2013;HYDROBIOLOGIA 714: 85-92;0;;;;;;
+182;"Li, L; Lu, SH; Jiang, T; Li, X";2013;CHINESE SCIENCE BULLETIN 58: 2303-2314;0;;;;;;
+183;"Brotas, V; Brewin, RJW; Sa, C; Brito, AC; Silva, A; Mendes, CR; Diniz, T; Kaufmann, M; Tarran, G; Groom, SB; Platt, T; Sathyendranath, S";2013;REMOTE SENSING OF ENVIRONMENT 134: 66-77;0;;;;;;
+184;"Crichton, M; Hutchings, L; Lamont, T; Jarre, A";2013;JOURNAL OF PLANKTON RESEARCH 35: 526-541;0;;;;;;
+185;"Organelli, E; Bricaud, A; Antoine, D; Uitz, J";2013;APPLIED OPTICS 52: 2257-2273;0;;;;;;
+186;"Sin, Y; Hyun, B; Jeong, B; Soh, HY";2013;MARINE ENVIRONMENTAL RESEARCH 85: 54-63;0;;;;;;
+187;"Maranon, E; Cermeno, P; Lopez-Sandoval, DC; Rodriguez-Ramos, T; Sobrino, C; Huete-Ortega, M; Blanco, JM; Rodriguez, J";2013;ECOLOGY LETTERS 16: 371-379;1;M;E;MS;D;1;MS011
+188;"Ferreira, A; Stramski, D; Garcia, CAE; Garcia, VMT; Ciotti, AM; Mendes, CRB";2013;JOURNAL OF GEOPHYSICAL RESEARCH-OCEANS 118: 698-714;0;;;;;;
+189;Dao, MH;2013;MARINE ECOLOGY PROGRESS SERIES 489: 87-92;1;M;R;MS;D;1;no
+190;"Lopez-Sandoval, DC; Rodriguez-Ramos, T; Cermeno, P; Maranon, E";2013;MARINE ECOLOGY PROGRESS SERIES 477: 53-60;1;M;E;MS;D;1;MS013
+191;"Ben Othman, H; Leboulanger, C; Le Floc'h, E; Mabrouk, HH; Hlaili, AS";2012;JOURNAL OF HAZARDOUS MATERIALS 243: 204-211;1;M;E;MS;R;2;no
+192;"Mitra, A; Zaman, S; Ray, SK; Sinha, S; Banerjee, K";2012;NATIONAL ACADEMY SCIENCE LETTERS-INDIA 35: 485-491;0;;;;;;
+193;"Zhou, W; Sun, ZH; Cao, WX; Wang, GF";2012;SPECTROSCOPY AND SPECTRAL ANALYSIS 32: 3347-3352;0;;;;;;
+194;"Peter, KH; Sommer, U";2012;PLOS ONE 7: e49632;1;M;E;MS;R;3;no
+195;"Brewin, RJW; Hirata, T; Hardman-Mountford, NJ; Lavender, SJ; Sathyendranath, S; Barlow, R";2012;DEEP-SEA RESEARCH PART II-TOPICAL STUDIES IN OCEANOGRAPHY 77-80: 117-127;1;M;O;C;R;2;no
+196;"Polovina, JJ; Woodworth, PA";2012;DEEP-SEA RESEARCH PART II-TOPICAL STUDIES IN OCEANOGRAPHY 77-80: 82-88;1;M;O;C;R;2;no
+197;"Klauschies, T; Bauer, B; Aberle-Malzahn, N; Sommer, U; Gaedke, U";2012;MARINE BIOLOGY 159: 2455-2478;1;M;E;C;R;2;no
+198;"Maranon, E; Cermeno, P; Latasa, M; Tadonleke, RD";2012;LIMNOLOGY AND OCEANOGRAPHY 57: 1266-1278;0;;;;;;
+199;"Echeveste, P; Agusti, S; Tovar-Sanchez, A";2012;ENVIRONMENTAL TOXICOLOGY AND CHEMISTRY 31: 1887-1894;1;M;E;MS;R;2;MS014
+200;"Brewin, RJW; Dall'Olmo, G; Sathyendranath, S; Hardman-Mountford, NJ";2012;OPTICS EXPRESS 20: 17632-17652;0;;;;;;
+201;"Zhang, YL; Yin, Y; Wang, MZ; Liu, XH";2012;OPTICS EXPRESS 20: 11882-11898;1;F;O;C;D;4;no
+202;"Kerimoglu, O; Straile, D; Peeters, F";2012;JOURNAL OF THEORETICAL BIOLOGY 300: 330-343;1;none;M;C;R;2;no
+203;"Huete-Ortega, M; Cermeno, P; Calvo-Diaz, A; Maranon, E";2012;PROCEEDINGS OF THE ROYAL SOCIETY B-BIOLOGICAL SCIENCES 279: 1815-1823;1;M;E;C;D;1;MS015
+204;"Sin, Y; Hyun, B; Bach, QD; Yang, S; Park, C";2012;ESTUARIES AND COASTS 35: 839-852;0;;;;;;
+205;"Li, G; Ke, ZX; Lin, Q; Ni, GY; Shen, PP; Liu, HX; Yin, JQ; Li, KZ; Huang, LM; Tan, YH";2012;ACTA OCEANOLOGICA SINICA 31: 121-128;0;;;;;;
+206;"Haupt, F; Stockenreiter, M; Boersma, M; Stibor, H";2012;JOURNAL OF LIMNOLOGY 71: 125-134;0;;;;;;
+207;"Bosak, S; Silovic, T; Ljubesic, Z; Kuspilic, G; Pestoric, B; Krivokapic, S; Vilicic, D";2012;OCEANOLOGIA 54: 255-286;0;;;;;;
+208;"Mouw, CB; Yoder, JA; Doney, SC";2012;JOURNAL OF MARINE SYSTEMS 89: 61-75;0;;;;;;
+209;Goericke, R;2011;CALIFORNIA COOPERATIVE OCEANIC FISHERIES INVESTIGATIONS REPORTS 52: 198-204;0;;;;;;
+210;"Aizdaicher, NA; Markina, ZV";2011;RUSSIAN JOURNAL OF MARINE BIOLOGY 37: 472-477;0;;;;;;
+211;"Garmendia, M; Revilla, M; Bald, J; Franco, J; Laza-Martinez, A; Orive, E; Seoane, S; Valencia, V; Borja, A";2011;BIOGEOCHEMISTRY 106: 243-263;0;;;;;;
+212;"Aizdaicher, NA; Markina, ZV";2011;BIOLOGIYA MORYA-MARINE BIOLOGY 37: 455-460;0;;;;;;
+213;"Edwards, KF; Klausmeier, CA; Litchman, E";2011;ECOLOGY 92: 2085-2095;1;FM;E;MS;D;1;MS034
+214;"Huete-Ortega, M; Calvo-Diaz, A; Grana, R; Mourino-Carballido, B; Maranon, E";2011;JOURNAL OF MARINE SYSTEMS 88: 203-213;0;;;;;;
+215;"Svensen, O; Stamnes, JJ; Kildemo, M; Aas, LMS; Erga, SR; Frette, O";2011;APPLIED OPTICS 50: 5149-5157;0;;;;;;
+216;"Zingone, A; Sarno, D; Siano, R; Marino, D";2011;POLAR BIOLOGY 34: 1269-1284;0;;;;;;
+217;"Hilligsoe, KM; Richardson, K; Bendtsen, J; Sorensen, LL; Nielsen, TG; Lyngsgaard, MM";2011;DEEP-SEA RESEARCH PART I-OCEANOGRAPHIC RESEARCH PAPERS 58: 826-838;0;;;;;;
+218;"Jahnke, J; Mahlmann, DM; Jacobs, P; Priefer, UB";2011;JOURNAL OF APPLIED PHYCOLOGY 23: 655-664;0;;;;;;
+219;"Moreno-Ostos, E; Fernandez, A; Huete-Ortega, M; Mourino-Carballido, B; Calvo-Diaz, A; Moran, XAG; Maranon, E";2011;SCIENTIA MARINA 75: 379-389;0;;;;;;
+220;"Roy, S; Sathyendranath, S; Platt, T";2011;JOURNAL OF THE ROYAL SOCIETY INTERFACE 8: 650-660;0;;;;;;
+221;"Echeveste, P; Agusti, S; Dachs, J";2011;ENVIRONMENTAL POLLUTION 159: 1307-1316;0;;;;;;
+222;"Naselli-Flores, L; Barone, R";2011;CRYPTOGAMIE ALGOLOGIE 32: 157-204;0;;;;;;
+223;"Paredes, MA; Montecino, V";2011;CONTINENTAL SHELF RESEARCH 31: 272-281;0;;;;;;
+224;"Roy, S; Platt, T; Sathyendranath, S";2011;ICES JOURNAL OF MARINE SCIENCE 68: 719-728;0;;;;;;
+225;"Forget, MH; Platt, T; Sathyendranath, S; Fanning, P";2011;ICES JOURNAL OF MARINE SCIENCE 68: 751-765;0;;;;;;
+226;"Brewin, RJW; Hardman-Mountford, NJ; Lavender, SJ; Raitsos, DE; Hirata, T; Uitz, J; Devred, E; Bricaud, A; Ciotti, A; Gentili, B";2011;REMOTE SENSING OF ENVIRONMENT 115: 325-339;0;;;;;;
+227;"Vanden Byllaardt, J; Cyr, H";2011;OIKOS 120: 162-169;0;;;;;;
+228;"Mei, ZP; Finkel, ZV; Irwin, AJ";2011;MARINE ECOLOGY PROGRESS SERIES 434: 29-43;1;M;M;MS;D;1;no
+229;"Jacob, B; Daneri, G; Quinones, RA; Sobarzo, M";2011;MARINE ECOLOGY PROGRESS SERIES 430: 23-34;0;;;;;;
+230;"Fujiwara, A; Hirawake, T; Suzuki, K; Saitoh, SI";2011;BIOGEOSCIENCES 8: 3567-3580;0;;;;;;
+231;"Barnes, C; Irigoien, X; De Oliveira, JAA; Maxwell, D; Jennings, S";2011;JOURNAL OF PLANKTON RESEARCH 33: 13-24;0;;;;;;
+232;"Mouw, CB; Yoder, JA";2010;JOURNAL OF GEOPHYSICAL RESEARCH-OCEANS 115: C12018;0;;;;;;
+233;"Madhu, NV; Jyothibabu, R; Balachandran, KK";2010;ENVIRONMENTAL MONITORING AND ASSESSMENT 166: 521-528;0;;;;;;
+234;"Brewin, RJW; Sathyendranath, S; Hirata, T; Lavender, SJ; Barciela, RM; Hardman-Mountford, NJ";2010;ECOLOGICAL MODELLING 221: 1472-1483;0;;;;;;
+235;"Chen, BZ; Liu, HB";2010;LIMNOLOGY AND OCEANOGRAPHY 55: 965-972;1;M;O;C;R;2;no
+236;"Peltomaa, E; Ojala, A";2010;JOURNAL OF PLANKTON RESEARCH 32: 341-355;0;;;;;;
+237;"Kamenir, Y; Dubinsky, Z; Harris, R";2010;JOURNAL OF EXPERIMENTAL MARINE BIOLOGY AND ECOLOGY 383: 105-110;0;;;;;;
+238;"Bluhm, K; Croot, P; Wuttig, K; Lochte, K";2010;AQUATIC BIOLOGY 11: 1-15;0;;;;;;
+239;"Bonsang, B; Gros, V; Peeken, I; Yassaa, N; Bluhm, K; Zoellner, E; Sarda-Esteve, R; Williams, J";2010;ENVIRONMENTAL CHEMISTRY 7: 554-563;1;M;E;MS;D;1;MS016
+240;"Key, T; McCarthy, A; Campbell, DA; Six, C; Roy, S; Finkel, ZV";2010;ENVIRONMENTAL MICROBIOLOGY 12: 95-104;1;M;E;MS;D;1;MS017
+241;"Echeveste, P; Agusti, S; Dachs, J";2010;ENVIRONMENTAL POLLUTION 158: 299-307;1;M;E;MS;D;1;no
+242;"Brewin, RJW; Lavender, SJ; Hardman-Mountford, NJ";2010;JOURNAL OF MAPS 6: 448-462;0;;;;;;
+243;"Huete-Ortega, M; Maranon, E; Varela, M; Bode, A";2010;JOURNAL OF PLANKTON RESEARCH 32: 1-14;1;M;O;C;D;4;MS018
+244;"Finkel, ZV; Beardall, J; Flynn, KJ; Quigg, A; Rees, TAV; Raven, JA";2010;JOURNAL OF PLANKTON RESEARCH 32: 119-137;1;M;R;C;R;2;MS040
+245;"Sunda, WG; Hardison, DR";2010;MARINE ECOLOGY PROGRESS SERIES 410: 288-288;1;M;E;MS;D;1;no
+246;"Sunda, WG; Hardison, DR";2010;MARINE ECOLOGY PROGRESS SERIES 401: 63-76;0;;;;;;
+247;"Guidi, L; Stemmann, L; Jackson, GA; Ibanez, F; Claustre, H; Legendre, L; Picheral, M; Gorsky, G";2009;LIMNOLOGY AND OCEANOGRAPHY 54: 1951-1963;0;;;;;;
+248;"Fu, MZ; Wang, ZL; Li, Y; Li, RX; Sun, P; Wei, XH; Lin, XZ; Guo, JS";2009;CONTINENTAL SHELF RESEARCH 29: 2178-2194;0;;;;;;
+249;Hewes, CD;2009;ANTARCTIC SCIENCE 21: 457-470;0;;;;;;
+250;"Mei, ZP; Finkel, ZV; Irwin, AJ";2009;JOURNAL OF THEORETICAL BIOLOGY 259: 582-588;1;M;M;C;D;1;no
+251;Maranon, E;2009;JOURNAL OF PLANKTON RESEARCH 31: 929-929;1;M;E;MS;D;1;MS19
+252;"Kemka, N; Togouet, SHZ; Kinfack, RPD; Nola, M; Menbohan, SF; Njine, T";2009;HYDROBIOLOGIA 625: 91-103;0;;;;;;
+253;"Decembrini, F; Caroppo, C; Azzaro, M";2009;DEEP-SEA RESEARCH PART II-TOPICAL STUDIES IN OCEANOGRAPHY 56: 687-699;0;;;;;;
+254;"Pommier, J; Gosselin, M; Michel, C";2009;JOURNAL OF PLANKTON RESEARCH 31: 429-446;0;;;;;;
+255;"Zarauz, L; Irigoien, X; Fernandes, JA";2009;JOURNAL OF PLANKTON RESEARCH 31: 193-207;0;;;;;;
+256;"Tambi, H; Flaten, GAF; Egge, JK; Bodtker, G; Jacobsen, A; Thingstad, TF";2009;AQUATIC MICROBIAL ECOLOGY 57: 311-320;0;;;;;;
+257;"Kamenir, Y; Morabito, G";2009;JOURNAL OF LIMNOLOGY 68: 146-161;0;;;;;;
+258;"Verdy, A; Follows, M; Flierl, G";2009;MARINE ECOLOGY PROGRESS SERIES 379: 1-12;1;M;M;C;D;1;no
+259;"Aktan, Y; Gurevin, C; Dorak, Z";2009;TURKISH JOURNAL OF BIOLOGY 33: 335-340;1;F;O;MS;R;2;no
+260;"Silio-Calzada, A; Bricaud, A; Uitz, J; Gentili, B";2008;JOURNAL OF GEOPHYSICAL RESEARCH-OCEANS 113: C11023;0;;;;;;
+261;"Sabetta, L; Basset, A; Spezie, G";2008;ESTUARINE COASTAL AND SHELF SCIENCE 80: 181-192;0;;;;;;
+262;"Montes-Hugo, MA; Vernet, M; Martinson, D; Smith, R; Iannuzzi, R";2008;DEEP-SEA RESEARCH PART II-TOPICAL STUDIES IN OCEANOGRAPHY 55: 2106-2117;1;M;O;C;R;2;no
+263;"Sabetta, L; Vadrucci, MR; Fiocca, A; Stanca, E; Mazziotti, C; Ferrari, C; Cabrini, M; Kongjka, E; Basset, A";2008;AQUATIC CONSERVATION-MARINE AND FRESHWATER ECOSYSTEMS 18: S76-S87;0;;;;;;
+264;"Hirata, T; Aiken, J; Hardman-Mountford, N; Smyth, TJ; Barlow, RG";2008;REMOTE SENSING OF ENVIRONMENT 112: 3153-3159;0;;;;;;
+265;"Schapira, M; Vincent, D; Gentilhomme, V; Seuront, L";2008;JOURNAL OF THE MARINE BIOLOGICAL ASSOCIATION OF THE UNITED KINGDOM 88: 649-662;0;;;;;;
+266;"Kamenir, Y; Winder, M; Dubinsky, Z; Zohary, T; Schladow, G";2008;AQUATIC SCIENCES 70: 195-203;0;;;;;;
+267;Pagano, M;2008;JOURNAL OF PLANKTON RESEARCH 30: 401-414;0;;;;;;
+268;Maranon, E;2008;JOURNAL OF PLANKTON RESEARCH 30: 157-163;0;;;;;;
+269;"Arbones, B; Castro, CG; Alonso-Perez, F; Figueiras, FG";2008;AQUATIC MICROBIAL ECOLOGY 50: 169-179;0;;;;;;
+270;"Montes-Hugo, MA; Vernet, M; Smith, R; Carder, K";2008;INTERNATIONAL JOURNAL OF REMOTE SENSING 29: 801-829;1;M;O;C;R;2;no
+271;"Cermeno, P; Figueiras, FG";2008;MARINE ECOLOGY PROGRESS SERIES 357: 79-85;1;M;O;C;D;4;MS020
+272;"Finkel, ZV; Sebbo, J; Feist-Burkhardt, S; Irwin, AJ; Katz, ME; Schofield, OME; Young, JR; Falkowski, PG";2007;PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF AMERICA 104: 20416-20420;1;M;O;C;R;2;no
+273;"Hellweger, FL; Kianirad, E";2007;JOURNAL OF THEORETICAL BIOLOGY 249: 554-565;0;;;;;;
+274;"Karp-Boss, L; Azevedo, L; Boss, E";2007;LIMNOLOGY AND OCEANOGRAPHY-METHODS 5: 396-406;0;;;;;;
+275;"Kriest, I; Oschlies, A";2007;DEEP-SEA RESEARCH PART I-OCEANOGRAPHIC RESEARCH PAPERS 54: 1593-1618;1;M;M;C;R;2;no
+276;"Maranon, E; Cermeno, P; Rodriguez, J; Zubkov, MV; Harris, RP";2007;LIMNOLOGY AND OCEANOGRAPHY 52: 2190-2198;1;M;O;C;D;1;MS021
+277;"Pannard, A; Bormans, M; Lefebvre, S; Claquin, P; Lagadeuc, Y";2007;JOURNAL OF PLANKTON RESEARCH 29: 583-598;0;;;;;;
+278;"Ehnert, W; McRoy, CP";2007;JOURNAL OF OCEANOGRAPHY 63: 179-187;0;;;;;;
+279;"Bernard, S; Shillington, FA; Probyn, TA";2007;OPTICS EXPRESS 15: 1995-2007;0;;;;;;
+280;"Kaiblinger, C; Greisberger, S; Teubner, K; Dokulil, MT";2007;HYDROBIOLOGIA 578: 29-36;0;;;;;;
+281;"Dokulil, MT; Donabaum, K; Teubner, K";2007;HYDROBIOLOGIA 578: 59-63;1;F;O;C;R;2;no
+282;"Kamenir, Y; Dubinsky, Z; Alster, A; Zohary, T";2007;HYDROBIOLOGIA 578: 79-86;0;;;;;;
+283;"Wang, GF; Cao, WX; Xu, DZ; Yang, YZ";2007;ACTA OCEANOLOGICA SINICA 26: 12-25;0;;;;;;
+284;"Tischendorf, G; Oesterhelt, C; Hoffmann, S; Girnus, J; Schnarrenberger, C; Gross, W";2007;EUROPEAN JOURNAL OF PHYCOLOGY 42: 243-251;0;;;;;;
+285;Froneman, PW;2006;ESTUARINE COASTAL AND SHELF SCIENCE 70: 693-700;0;;;;;;
+286;[Anonymous];2006;COMPENDIUM ON CONTINUING EDUCATION FOR THE PRACTICING VETERINARIAN 28: 760-761;0;;;;;;
+287;"Cermeno, P; Maranon, E; Harbour, D; Harris, RP";2006;ECOLOGY LETTERS 9: 1210-1215;1;M;O;C;D;4;MS022
+288;"Cermeno, P; Maranon, E; Perez, V; Serret, P; Fernandez, E; Castro, CG";2006;ESTUARINE COASTAL AND SHELF SCIENCE 70: 333-333;0;;;;;;
+289;"Peloquin, JA; Smith, WO";2006;JOURNAL OF PHYCOLOGY 42: 1016-1027;0;;;;;;
+290;"Waite, AM; Hill, PS";2006;MARINE CHEMISTRY 100: 366-375;0;;;;;;
+291;"Ciotti, AM; Bricaud, A";2006;LIMNOLOGY AND OCEANOGRAPHY-METHODS 4: 237-253;0;;;;;;
+292;"Irwin, AJ; Finkel, ZV; Schofield, OME; Falkowski, PG";2006;JOURNAL OF PLANKTON RESEARCH 28: 459-471;1;M;M;C;R;2;no
+293;"Cermeno, P; Maranon, E; Perez, V; Serret, P; Fernandez, E; Castro, CG";2006;ESTUARINE COASTAL AND SHELF SCIENCE 67: 251-266;0;;;;;;
+294;"Kamenir, Y; Dubinsky, Z; Zohary, T";2006;AQUATIC SCIENCES 68: 490-501;1;F;O;C;D;4;no
+295;"Jiang, L; Schofield, OME; Falkowski, PG";2005;AMERICAN NATURALIST 166: 496-505;1;none;M;C;R;2;no
+296;"Thomas, CM; Perissinotto, R; Kibirige, I";2005;ESTUARINE COASTAL AND SHELF SCIENCE 65: 223-238;0;;;;;;
+297;"Varela, MM; Bode, A; Fernandez, E; Gonzalez, N; Kitidis, V; Varela, M; Woodward, EMS";2005;DEEP-SEA RESEARCH PART I-OCEANOGRAPHIC RESEARCH PAPERS 52: 1637-1661;0;;;;;;
+298;"Mouw, CB; Yoder, JA";2005;LIMNOLOGY AND OCEANOGRAPHY 50: 1232-1243;0;;;;;;
+299;"Arin, L; Estrada, M; Salat, J; Cruzado, A";2005;CONTINENTAL SHELF RESEARCH 25: 1081-1095;0;;;;;;
+300;"Cermeno, P; Maranon, E; Rodriguez, J; Fernandez, E";2005;JOURNAL OF PLANKTON RESEARCH 27: 473-483;1;M;O;C;D;1;MS023
+301;"Reul, A; Rodriguez, V; Jimenez-Gomez, F; Blanco, JM; Bautista, B; Sarhan, T; Guerrero, F; Ruiz, J; Garcia-Lafuente, J";2005;CONTINENTAL SHELF RESEARCH 25: 589-608;0;;;;;;
+302;"Seppala, J; Ylostalo, P; Kuosa, H";2005;INTERNATIONAL JOURNAL OF REMOTE SENSING 26: 387-414;0;;;;;;
+303;"Cermeno, P; Maranon, E; Rodriguez, J; Fernandez, E";2005;MARINE ECOLOGY PROGRESS SERIES 297: 51-60;1;M;O;C;D;1;MS024
+304;"Kamenir, Y; Dubinsky, Z; Zohary, T";2004;HYDROBIOLOGIA 520: 89-104;0;;;;;;
+305;"Kadono, T; Kawano, T; Hosoya, H; Kosaka, T";2004;PROTOPLASMA 223: 133-141;0;;;;;;
+306;"Linden, E; Kuosa, H";2004;HYDROBIOLOGIA 514: 73-78;0;;;;;;
+307;"Vaillancourt, RD; Brown, CW; Guillard, RRL; Balch, WM";2004;JOURNAL OF PLANKTON RESEARCH 26: 191-212;0;;;;;;
+308;"Sabetta, L; Fiocca, A; Margheriti, L; Vignes, F; Basset, A; Mangoni, O; Carrada, GC; Ruggieri, N; Ianni, C";2004;CHEMISTRY AND ECOLOGY 20: S303-S317;0;;;;;;
+309;"Froneman, PW; Pakhomov, EA; Balarin, MG";2004;DEEP-SEA RESEARCH PART II-TOPICAL STUDIES IN OCEANOGRAPHY 51: 2715-2729;0;;;;;;
+310;"Finkel, ZV; Irwin, AJ; Schofield, O";2004;MARINE ECOLOGY PROGRESS SERIES 273: 269-279;0;;;;;;
+311;"Iriarte, JL; Gonzalez, HE";2004;MARINE ECOLOGY PROGRESS SERIES 269: 83-90;0;;;;;;
+312;"Lohrenz, SE; Carroll, CL; Weidemann, AD; Tuel, M";2003;CONTINENTAL SHELF RESEARCH 23: 1447-1464;0;;;;;;
+313;"Varela, MM; Barquero, S; Bode, A; Fernandez, E; Gonzalez, N; Teira, E; Varela, M";2003;JOURNAL OF PLANKTON RESEARCH 25: 719-736;0;;;;;;
+314;"Chang, FH; Zeldis, J; Gall, M; Hall, J";2003;JOURNAL OF PLANKTON RESEARCH 25: 737-758;0;;;;;;
+315;"Tseitlin, VB; Rat'kova, TN";2003;OCEANOLOGY 43: 532-534;0;;;;;;
+316;"Safi, KA; Gibbs, MM";2003;NEW ZEALAND JOURNAL OF MARINE AND FRESHWATER RESEARCH 37: 267-272;0;;;;;;
+317;"Karsh, KL; Trull, TW; Lourey, AJ; Sigman, DM";2003;LIMNOLOGY AND OCEANOGRAPHY 48: 1058-1068;0;;;;;;
+318;"Ansotegui, A; Sarobe, A; Trigueros, JM; Urrutxurtu, I; Orive, E";2003;JOURNAL OF PLANKTON RESEARCH 25: 341-355;0;;;;;;
+319;"Watson, DL; Bayne, DR; DeVries, DR; Williams, J";2003;HYDROBIOLOGIA 495: 17-32;0;;;;;;
+320;"Tadonleke, RD; Thouvenot, A; Gilbert, D; Sime-Ngando, T; Debroas, D; Devaux, J";2003;INTERNATIONAL REVIEW OF HYDROBIOLOGY 88: 614-634;0;;;;;;
+321;"Lohrenz, SE; Weidemann, AD; Tuel, M";2003;JOURNAL OF PLANKTON RESEARCH 25: 35-61;0;;;;;;
+322;"Maranon, E; Behrenfeld, MJ; Gonzalez, N; Mourino, B; Zubkov, MV";2003;MARINE ECOLOGY PROGRESS SERIES 257: 1-11;0;;;;;;
+323;"Arin, L; Moran, XAG; Estrada, M";2002;JOURNAL OF PLANKTON RESEARCH 24: 1019-1033;0;;;;;;
+324;"Fujiki, T; Taguchi, S";2002;JOURNAL OF PLANKTON RESEARCH 24: 859-874;1;M;E;MS;R;2;MS036
+325;"Ignatiades, L; Psarra, S; Zervakis, V; Pagou, K; Souvermezoglou, E; Assimakopoulou, G; Gotsis-Skretas, O";2002;JOURNAL OF MARINE SYSTEMS 36: 11-28;0;;;;;;
+326;"Ciotti, AM; Lewis, MR; Cullen, JJ";2002;LIMNOLOGY AND OCEANOGRAPHY 47: 404-417;0;;;;;;
+327;"Raven, JA; Kubler, JE";2002;JOURNAL OF PHYCOLOGY 38: 11-16;0;;;;;;
+328;"Rodriguez, J; Jimenez-Gomez, F; Blanco, JM; Figueroa, ML";2002;DEEP-SEA RESEARCH PART II-TOPICAL STUDIES IN OCEANOGRAPHY 49: 693-706;1;M;O;C;D;4;no
+329;"Kobayashi, M; Katsuragi, T; Tani, Y";2001;JOURNAL OF BIOSCIENCE AND BIOENGINEERING 92: 565-568;0;;;;;;
+330;"Szurkowski, J; Bascik-Remisiewicz, A; Matusiak, K; Tukaj, Z";2001;JOURNAL OF PLANT PHYSIOLOGY 158: 1061-1067;0;;;;;;
+331;"Moller, EF; Nielsen, TG";2001;JOURNAL OF PLANKTON RESEARCH 23: 527-536;0;;;;;;
+332;"Finkel, ZV; Irwin, AJ";2001;JOURNAL OF EXPERIMENTAL MARINE BIOLOGY AND ECOLOGY 259: 51-61;0;;;;;;
+333;"Kamiyama, T; Arima, S";2001;JOURNAL OF EXPERIMENTAL MARINE BIOLOGY AND ECOLOGY 257: 281-296;0;;;;;;
+334;"Rodriguez, J; Tintore, J; Allen, JT; Blanco, JM; Gomis, D; Reul, A; Ruiz, J; Rodriguez, V; Echevarria, F; Jimenez-Gomez, F";2001;NATURE 410: 360-363;1;M;O;C;D;4;MS025
+335;"Ladygin, VG; Shirshikova, GN; Semenova, GA; Kreslavskii, VD";2001;BIOFIZIKA 46: 256-264;0;;;;;;
+336;"Shalapyonok, A; Olson, RJ; Shalapyonok, LS";2001;DEEP-SEA RESEARCH PART II-TOPICAL STUDIES IN OCEANOGRAPHY 48: 1231-1261;0;;;;;;
+337;"Teira, E; Serret, P; Fernandez, E";2001;MARINE ECOLOGY PROGRESS SERIES 219: 65-83;0;;;;;;
+338;"Maranon, E; Holligan, PM; Barciela, R; Gonzalez, N; Mourino, B; Pazo, MJ; Varela, M";2001;MARINE ECOLOGY PROGRESS SERIES 216: 43-56;0;;;;;;
+339;"Lechat, H; Amat, M; Mazoyer, J; Buleon, A; Lahaye, M";2000;JOURNAL OF PHYCOLOGY 36: 891-902;0;;;;;;
+340;"Sin, Y; Wetzel, RL; Anderson, IC";2000;JOURNAL OF PLANKTON RESEARCH 22: 1945-1960;0;;;;;;
+341;"Iriarte, JL; Pizarro, G; Troncoso, VA; Sobarzo, M";2000;JOURNAL OF MARINE SYSTEMS 26: 37-51;0;;;;;;
+342;"Gin, KYH; Lin, XH; Zhang, S";2000;JOURNAL OF PLANKTON RESEARCH 22: 1465-1484;0;;;;;;
+343;"Fouilland, E; Courties, C; Descolas-Gros, C";2000;JOURNAL OF PLANKTON RESEARCH 22: 1185-1201;0;;;;;;
+344;Jochem, FJ;2000;SCIENTIA MARINA 64: 183-195;0;;;;;;
+345;Chen, YLL;2000;CONTINENTAL SHELF RESEARCH 20: 437-458;0;;;;;;
+346;"Montecino, V; Quiroz, D";2000;AQUATIC SCIENCES 62: 364-380;0;;;;;;
+347;"Gotsis-Skretas, O; Horstmann, U; Wiryawan, B";2000;ARCHIVE OF FISHERY AND MARINE RESEARCH 48: 265-282;0;;;;;;
+348;"Verity, PG; Williams, SC; Hong, Y";2000;MARINE ECOLOGY PROGRESS SERIES 207: 53-68;0;;;;;;
+349;"Burkhardt, S; Riebesell, U; Zondervan, I";1999;GEOCHIMICA ET COSMOCHIMICA ACTA 63: 3729-3741;0;;;;;;
+350;Cottingham, KL;1999;LIMNOLOGY AND OCEANOGRAPHY 44: 810-827;1;M;O;C;R;3;no
+351;"Semina, HI; Micaelyan, AS; Belyaeva, GA";1999;OKEANOLOGIYA 39: 387-394;0;;;;;;
+352;"Tamigneaux, E; Legendre, L; Klein, B; Mingelbier, M";1999;ESTUARINE COASTAL AND SHELF SCIENCE 48: 253-269;0;;;;;;
+353;"Jochem, FJ; Meyerdierks, D";1999;MARINE ECOLOGY PROGRESS SERIES 185: 301-307;0;;;;;;
+354;"Huang, BQ; Hong, HS; Wang, HL";1999;MARINE ECOLOGY PROGRESS SERIES 183: 29-38;0;;;;;;
+355;"Laurion, I; Vincent, WF";1998;LIMNOLOGY AND OCEANOGRAPHY 43: 1774-1779;0;;;;;;
+356;"Rodriguez, J; Blanco, JM; Jimenez-Gomez, F; Echevarria, F; Gil, J; Rodriguez, V; Ruiz, J; Bautista, B; Guerrero, F";1998;DEEP-SEA RESEARCH PART I-OCEANOGRAPHIC RESEARCH PAPERS 45: 1577-1593;0;;;;;;
+357;"Frenette, JJ; Vincent, WF; Legendre, L";1998;LIMNOLOGY AND OCEANOGRAPHY 43: 1362-1368;0;;;;;;
+358;"Hansson, LA; Bergman, E; Cronberg, G";1998;OIKOS 81: 337-345;0;;;;;;
+359;"Popp, BN; Laws, EA; Bidigare, RR; Dore, JE; Hanson, KL; Wakeham, SG";1998;GEOCHIMICA ET COSMOCHIMICA ACTA 62: 69-77;0;;;;;;
+360;"Makarewicz, JC; Bertram, P; Lewis, TW";1998;JOURNAL OF GREAT LAKES RESEARCH 24: 637-657;0;;;;;;
+361;"Riegman, R; Flameling, IA; Noordeloos, AAM";1998;MARINE ECOLOGY PROGRESS SERIES 173: 85-94;0;;;;;;
+362;"Riegman, R; Noordeloos, AAM";1998;MARINE ECOLOGY PROGRESS SERIES 173: 95-106;0;;;;;;
+363;"Hessen, DO; De Lange, HJ; Van Donk, E";1997;FRESHWATER BIOLOGY 38: 513-524;0;;;;;;
+364;"Sunda, WG; Huntsman, SA";1997;NATURE 390: 389-392;1;M;E;MS;D;1;no
+365;"Masi, A; Melis, A";1997;BIOCHIMICA ET BIOPHYSICA ACTA-BIOENERGETICS 1321: 183-193;0;;;;;;
+366;"Tremblay, JE; Klein, B; Legendre, L; Rivkin, RB; Therriault, JC";1997;LIMNOLOGY AND OCEANOGRAPHY 42: 595-601;0;;;;;;
+367;"Tamigneaux, E; Mingelbier, M; Klein, B";1997;MARINE ECOLOGY PROGRESS SERIES 146: 231-247;0;;;;;;
+368;"Lonsdale, DJ; Cosper, EM; Doall, M";1996;ESTUARIES 19: 874-889;0;;;;;;
+369;"Frenette, JJ; Vincent, WF; Legendre, L; Nagata, T";1996;FRESHWATER BIOLOGY 36: 221-236;0;;;;;;
+370;"Stolte, W; Riegman, R";1996;JOURNAL OF PHYCOLOGY 32: 732-740;1;M;M;C;R;2;no
+371;"Thies, F; Grimme, LH";1996;PESTICIDE SCIENCE 47: 337-346;0;;;;;;
+372;"Mousseau, L; Legendre, L; Fortier, L";1996;AQUATIC MICROBIAL ECOLOGY 10: 149-163;0;;;;;;
+373;"Frenette, JJ; Vincent, WF; Legendre, L; Nagata, T";1996;JOURNAL OF PLANKTON RESEARCH 18: 371-391;0;;;;;;
+374;"Odebrecht, C; Djurfeldt, L";1996;ARCHIVE OF FISHERY AND MARINE RESEARCH 43: 217-230;0;;;;;;
+375;"Ning, XR; Lin, ZL; Zhu, GH; Shi, JX";1996;POLAR BIOLOGY 16: 1-11;0;;;;;;
+376;"CLAEREBOUDT, MR; COTE, J; BONARDELLI, JC; HIMMELMAN, JH";1995;HYDROBIOLOGIA 306: 147-157;0;;;;;;
+377;"WILHELM, C; VOLKMAR, P; LOHMANN, C; BECKER, A; MEYER, M";1995;JOURNAL OF WATER SUPPLY RESEARCH AND TECHNOLOGY-AQUA 44: 132-141;0;;;;;;
+378;"STOLTE, W; RIEGMAN, R";1995;MICROBIOLOGY-SGM 141: 1221-1229;1;M;E;SS;D;1;MS037
+379;"FRENETTE, JJ; VINCENT, WF; DODSON, JJ; LOVEJOY, C";1995;MARINE ECOLOGY PROGRESS SERIES 120: 99-110;1;FM;O;C;R;2;no
+380;"RICHARDSON, LL; STOLZENBACH, KD";1995;FEMS MICROBIOLOGY ECOLOGY 16: 185-191;1;F;O;MS;D;1;no
+381;"STOLTE, W; MCCOLLIN, T; NOORDELOOS, AAM; RIEGMAN, R";1994;JOURNAL OF EXPERIMENTAL MARINE BIOLOGY AND ECOLOGY 184: 83-97;1;M;E;MS;D;1;MS026
+382;"MONTAGNES, DJS; BERGES, JA; HARRISON, PJ; TAYLOR, FJR";1994;LIMNOLOGY AND OCEANOGRAPHY 39: 1044-1060;1;M;E;MS;D;1;MS041
+383;"TETIK, K; NECAS, J; SULEK, J; OLEJNICEK, J";1994;ARCHIV FUR HYDROBIOLOGIE 130: 485-497;0;;;;;;
+384;"ROJO, C; RODRIGUEZ, J";1994;JOURNAL OF PLANKTON RESEARCH 16: 317-335;1;F;O;C;D;4;no
+385;"RIEGMAN, R; KUIPERS, BR; NOORDELOOS, AAM; WITTE, HJ";1993;NETHERLANDS JOURNAL OF SEA RESEARCH 31: 255-265;0;;;;;;
+386;"GAEDKE, U; SCHWEIZER, A";1993;OECOLOGIA 93: 268-275;0;;;;;;
+387;KIORBOE, T;1993;ADVANCES IN MARINE BIOLOGY, VOL 29 29: 1-72;0;;;;;;
+388;"TACKX, MLM; DARO, MH";1993;CAHIERS DE BIOLOGIE MARINE 34: 253-260;1;M;EM;C;D;1;no
+389;"JOCHEM, FJ; ZEITZSCHEL, B";1993;DEEP-SEA RESEARCH PART II-TOPICAL STUDIES IN OCEANOGRAPHY 40: 495-519;0;;;;;;
+390;"JOCHEM, FJ; POLLEHNE, F; ZEITZSCHEL, B";1993;DEEP-SEA RESEARCH PART II-TOPICAL STUDIES IN OCEANOGRAPHY 40: 711-735;0;;;;;;
+391;"COOKE, TJ; LU, B";1992;INTERNATIONAL JOURNAL OF PLANT SCIENCES 153: S7-S27;0;;;;;;
+392;"BODE, A; FERNANDEZ, E";1992;JOURNAL OF PLANKTON RESEARCH 14: 885-902;0;;;;;;
+393;"LEBOUTEILLER, A; BLANCHOT, J; RODIER, M";1992;DEEP-SEA RESEARCH PART A-OCEANOGRAPHIC RESEARCH PAPERS 39: 805-823;0;;;;;;
+394;"BAUTISTA, B; HARRIS, RP";1992;MARINE ECOLOGY PROGRESS SERIES 82: 41-50;0;;;;;;
+395;DAVIDOVICH, NA;1992;SOVIET PLANT PHYSIOLOGY 39: 386-390;0;;;;;;
+396;"DUCKLOW, HW; KIRCHMAN, DL; QUINBY, HL";1992;MICROBIAL ECOLOGY 24: 125-144;0;;;;;;
+397;"BLACKWELL, JR; GILMOUR, DJ";1991;ARCHIVES OF MICROBIOLOGY 157: 80-85;0;;;;;;
+398;"TING, YP; LAWSON, F; PRINCE, IG";1991;CHEMICAL ENGINEERING JOURNAL AND THE BIOCHEMICAL ENGINEERING JOURNAL 47: B23-B34;1;F;E;SS;R;2;no
+399;"JACQUES, G; PANOUSE, M";1991;POLAR BIOLOGY 11: 315-328;0;;;;;;
+400;"KARENTZ, D; CLEAVER, JE; MITCHELL, DL";1991;JOURNAL OF PHYCOLOGY 27: 326-341;1;M;E;MS;R;2;no
+401;"THOMPSON, PA; HARRISON, PJ; PARSLOW, JS";1991;JOURNAL OF PHYCOLOGY 27: 351-360;1;M;E;MS;R;2;no
+402;AGUSTI, S;1991;CANADIAN JOURNAL OF FISHERIES AND AQUATIC SCIENCES 48: 763-767;1;FM;E;MS;D;1;MS039
+403;WEHR, JD;1991;INTERNATIONALE REVUE DER GESAMTEN HYDROBIOLOGIE 76: 643-656;0;;;;;;
+404;"WALKER, DR; PETERSON, WT";1991;SOUTH AFRICAN JOURNAL OF MARINE SCIENCE-SUID-AFRIKAANSE TYDSKRIF VIR SEEWETENSKAP 11: 289-305;0;;;;;;
+405;LI, WKW;1990;LIMNOLOGY AND OCEANOGRAPHY 35: 1356-1368;0;;;;;;
+406;"PENA, MA; LEWIS, MR; HARRISON, WG";1990;DEEP-SEA RESEARCH PART A-OCEANOGRAPHIC RESEARCH PAPERS 37: 295-315;0;;;;;;
+407;SOMMER, U;1989;LIMNOLOGY AND OCEANOGRAPHY 34: 1109-1112;1;M;E;MS;D;1;MS028
+408;"MARRASE, C; DUARTE, CM; VAQUE, D";1989;MARINE BIOLOGY 102: 43-48;1;M;O;C;D;4;MS029
+409;"JORDAN, IT; ROSS, PE; PINELALLOUL, B";1988;HYDROBIOLOGIA 169: 167-182;0;;;;;;
+410;PARSONS, TR;1988;CURRENT CONTENTS/AGRICULTURE BIOLOGY & ENVIRONMENTAL SCIENCES : 18-18;0;;;;;;
+411;"MLADENOV, PV; EMSON, RH";1988;MARINE ECOLOGY PROGRESS SERIES 42: 181-194;0;;;;;;
+412;TSEITLIN, VB;1987;OKEANOLOGIYA 27: 977-979;0;;;;;;
+413;"SUTTLE, CA; STOCKNER, JG; HARRISON, PJ";1987;CANADIAN JOURNAL OF FISHERIES AND AQUATIC SCIENCES 44: 1768-1774;1;F;E;C;R;2;no
+414;"TORNQVIST, L; CLAESSON, A";1987;ENVIRONMENTAL AND EXPERIMENTAL BOTANY 27: 481-488;1;F;E;MS;R;2;no
+415;"HARRIS, GP; GANF, GG; THOMAS, DP";1987;JOURNAL OF PLANKTON RESEARCH 9: 1003-1030;1;M;O;C;R;2;no
+416;"AGUSTI, S; DUARTE, CM; KALFF, J";1987;LIMNOLOGY AND OCEANOGRAPHY 32: 983-986;1;FM;E;MS;D;4;MS030
+417;"PETERSON, WT; BELLANTONI, DC";1987;SOUTH AFRICAN JOURNAL OF MARINE SCIENCE-SUID-AFRIKAANSE TYDSKRIF VIR SEEWETENSKAP 5: 411-421;0;;;;;;
+418;NESTEROVA, DA;1986;OKEANOLOGIYA 26: 474-480;0;;;;;;
+419;"REED, RH; RICHARDSON, DL; STEWART, WDP";1986;PLANT CELL AND ENVIRONMENT 9: 25-31;0;;;;;;
+420;"HERBLAND, A; LEBOUTEILLER, A; RAIMBAULT, P";1985;DEEP-SEA RESEARCH PART A-OCEANOGRAPHIC RESEARCH PAPERS 32: 819-836;0;;;;;;
+421;MARSCHALL, HG;1985;HYDROBIOLOGIA 120: 171-179;0;;;;;;
+422;VILICIC, D;1985;INTERNATIONALE REVUE DER GESAMTEN HYDROBIOLOGIE 70: 829-843;0;;;;;;
+423;"BERGQUIST, AM; CARPENTER, SR; LATINO, JC";1985;LIMNOLOGY AND OCEANOGRAPHY 30: 1037-1045;1;F;E;C;R;3;no
+424;"SICKOGOAD, L; STOERMER, EF";1984;JOURNAL OF GREAT LAKES RESEARCH 10: 90-93;0;;;;;;
+425;MARSHALL, HG;1984;JOURNAL OF PLANKTON RESEARCH 6: 169-193;0;;;;;;
+426;"PRIDMORE, RD; HEWITT, JE";1984;NEW ZEALAND JOURNAL OF BOTANY 22: 295-301;0;;;;;;
+427;YENTSCH, CS;1983;ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 185: 163-ANYL;0;;;;;;
+428;"HARRIS, GP; PICCININ, BB; VANRYN, J";1983;ARCHIV FUR HYDROBIOLOGIE 98: 215-239;0;;;;;;
+429;"NALEWAJKO, C; GARSIDE, C";1983;LIMNOLOGY AND OCEANOGRAPHY 28: 591-597;0;;;;;;
+430;"TAKAHASHI, M; BIENFANG, PK";1983;MARINE BIOLOGY 76: 203-211;0;;;;;;
+431;"SCHLESINGER, DA; MOLOT, LA; SHUTER, BJ";1981;CANADIAN JOURNAL OF FISHERIES AND AQUATIC SCIENCES 38: 1052-1058;0;;;;;;
+432;"GOTHAM, IJ; FRISCH, HL";1981;JOURNAL OF THEORETICAL BIOLOGY 92: 435-467;0;;;;;;
+433;"PAVLOVSKAYA, TV; KONDRATYEVA, TM";1981;OKEANOLOGIYA 21: 523-528;0;;;;;;
+434;"YADAVA, PK; SINGH, SP";1980;CYTOBIOS 28: 35-40;0;;;;;;
+435;"BIGGS, DC; ROWLAND, RG; WURSTER, CF";1979;BULLETIN OF ENVIRONMENTAL CONTAMINATION AND TOXICOLOGY 21: 196-201;1;M;E;MS;R;2;no
+436;"BIGGS, DC; ROWLAND, RG; OCONNORS, HB; POWERS, CD; WURSTER, CF";1978;ENVIRONMENTAL POLLUTION 15: 253-263;1;M;E;C;R;2;no
+437;"FRIEBELE, ES; CORRELL, DL; FAUST, MA";1978;MARINE BIOLOGY 45: 39-52;1;M;E;MS;D;1;MS038
+438;"STOERMER, EF; GOAD, LS; LADEWSKI, BG";1977;JOURNAL OF PHYCOLOGY 13: 65-65;0;;;;;;
+439;KULLBERG, RG;1977;JOURNAL OF PHYCOLOGY 13: 111-115;1;F;O;SS;R;2;no
+440;"RAVEN, JA; SMITH, FA";1977;PHOTOSYNTHETICA 11: 48-55;0;;;;;;
+441;"SICKOGOAD, L; STOERMER, EF; LADEWSKI, BG";1977;PROTOPLASMA 93: 147-163;0;;;;;;
+442;KIRST, GO;1977;ZEITSCHRIFT FUR PFLANZENPHYSIOLOGIE 81: 386-394;1;M;E;SS;R;2;no
+443;BANSE, K;1976;JOURNAL OF PHYCOLOGY 12: 135-140;1;M;R;MS;D;1;no
+444;"SEMINA, HJ; TARKHOVA, IA; NGOCAN, T";1976;MARINE BIOLOGY 37: 389-395;0;;;;;;
+445;TAGUCHI, S;1975;JOURNAL OF PHYCOLOGY 11: 21-21;1;M;R;MS;D;1;MS031
+446;MALONE, TC;1975;LIMNOLOGY AND OCEANOGRAPHY 20: 490-490;0;;;;;;
+447;STULL, EA;1974;JOURNAL OF PHYCOLOGY 10: 10-10;0;;;;;;
+448;"HECKY, RE; KILHAM, P";1974;LIMNOLOGY AND OCEANOGRAPHY 19: 361-365;0;;;;;;
+449;"PARSONS, TR; TAKAHASHI, M";1974;LIMNOLOGY AND OCEANOGRAPHY 19: 366-368;0;;;;;;
+450;"PRAKASH, A; SKOGLUND, L; RYSTAD, B; JENSEN, A";1973;JOURNAL OF THE FISHERIES RESEARCH BOARD OF CANADA 30: 143-155;0;;;;;;
+451;"PARSONS, TR; TAKAHASH.M";1973;LIMNOLOGY AND OCEANOGRAPHY 18: 511-515;0;;;;;;
+452;"SEMINA, GI; ARATSKAY.VV";1970;DOKLADY AKADEMII NAUK SSSR 191: 449-&;0;;;;;;
+453;LOVLIE, A;1969;DEVELOPMENTAL BIOLOGY 20: 349-&;0;;;;;;
+454;STRATHMANN, RR;1967;LIMNOLOGY AND OCEANOGRAPHY 12: 411-+;0;;;;;;
+455;"MULLIN, MM; SLOAN, PR; EPPLEY, RW";1966;LIMNOLOGY AND OCEANOGRAPHY 11: 307-&;1;M;E;MS;D;1;MS032
